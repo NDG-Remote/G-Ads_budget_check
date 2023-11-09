@@ -30,4 +30,4 @@ If you wish to test the script, **consider temporarily adjusting the budget in t
 ! Do not change the name of the last tab; it must remain "Overspending Alert Weekly Budget".
 
 
-For detailed instructions, refer to my tutorial video: /Tutorial.mp4
+For detailed instructions, refer to [my tutorial video](/Tutorial.mp4)
